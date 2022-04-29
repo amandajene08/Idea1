@@ -1,0 +1,7 @@
+.max-h-0 {
+	max-height: 10;
+}
+
+.group:focus .group-focus\:max-h-60 {
+	max-height: 20rem;
+}
